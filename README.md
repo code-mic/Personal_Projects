@@ -1,2 +1,2 @@
-# FreeCodeCamp
-This repository is for Responsive Web Design Projects from FreeCodeCamp.
+# Personal Projects
+This repository is for various projects and online learning.
